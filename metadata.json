@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React CRUD Task Manager",
+  "description": "A simple and elegant CRUD application to manage tasks. This frontend is built with React and Tailwind CSS, simulating interactions with a Node.js, Express, and PostgreSQL backend.",
+  "requestFramePermissions": []
+}
